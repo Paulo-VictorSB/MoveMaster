@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Transforme seus treinos em resultados com a MoveMaster, a plataforma completa para fitness e saúde.">
+    <meta name="keywords" content="fitness, saúde, treino, exercícios, planos de treino">
+    <meta name="author" content="Equipe MoveMaster">
+    <title>MoveMaster - Sua Jornada Fitness Começa Aqui</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home" class="active">Início</a></li>
+                <li><a href="#treinos">Treinos</a></li>
+                <li><a href="#planos">Planos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="section">
+            <div class="container">
+                <h1>Bem-vindo ao MoveMaster</h1>
+                <p>Transforme seus treinos em resultados com nossa plataforma inovadora!</p>
+
+                <form method="get" action="#" aria-label="Formulário de busca"> 
+                    <input type="text" id="buscaGeral" name="query" placeholder="Digite o nome do exercício">
+                    <button type="submit" aria-label="Buscar"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </section>
+
+        <section id="treinos" class="section">
+            <div class="container">
+                <h2>Treinos Populares</h2>
+                <div class="cards">
+                    <div class="card">
+                        <h3>Supino Reto</h3>
+                        <img src="assets/exercises/Bench_Press_-_Powerlifting/1.jpg" alt="Demonstração de Supino Reto com barra">
+                        <p>Exercício para desenvolvimento do peitoral.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Crucifixo com Halteres</h3>
+                        <img src="assets/exercises/Dumbbell_Flyes/1.jpg" alt="Demonstração de Crucifixo com Halteres">
+                        <p>Exercício isolado para fortalecer o peitoral.</p>
+                    </div>
+                    <div class="card">
+                        <h3>Agachamento Livre</h3>
+                        <img src="assets/exercises/Barbell_Squat/1.jpg" alt="Demonstração de Agachamento Livre">
+                        <p>Trabalha coxas, glúteos e lombar.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="planos" class="section">
+            <div class="container" id="saiba-mais">
+                <h2>Planos Personalizados</h2>
+                <p>Escolha um plano de treino feito sob medida para você!</p>
+                <button type="button" class="btn" id="btn">Saiba Mais</button>
+            </div>
+        </section>
+
+
+        <section id="imc" class="section">
+            <div class="container">
+                <h2>Calcule aqui o seu Índice de Massa Corporal</h2>
+                <div id="imc">
+                    <label><input type="number" id="peso" placeholder="Peso"></label>
+                    <label><input type="number" id="altura" placeholder="Altura"></label>
+                    <button class="btn">=</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 MoveMaster. Todos os direitos reservados.</p>
+            <nav>
+                <ul>
+                    <li><a href="#">Política de Privacidade</a></li>
+                    <li><a href="#">Termos de Uso</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+    <script>
+        // Adiciona interatividade ao campo de busca
+        document.getElementById('buscaGeral').addEventListener('input', function() {
+            console.log('Buscando:', this.value);
+        });
+    </script>
+</body>
+</html>
