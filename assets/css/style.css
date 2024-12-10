@@ -23,6 +23,7 @@ nav ul {
     list-style: none;
     justify-content: center;
     gap: 1.5rem;
+    flex-wrap: wrap;
 }
 
 nav ul li a {
@@ -102,6 +103,7 @@ p {
     border-radius: 5px;
     cursor: pointer;
     transition: background 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .btn:hover {
@@ -168,7 +170,7 @@ form button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-flow: row wrap;
+    flex-flow: row nowrap;
     gap: 10px;
 }
 
@@ -178,4 +180,76 @@ form button:hover {
     border-radius: 5px;
     width: 100%;
     max-width: 400px;
+}
+
+.caixaBtn {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+}
+
+#sobre {
+    width: 50%;
+}
+
+#sobre p {
+    text-align: justify;
+}
+
+#sobre h4 {
+    text-align: center;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+.destaque  {
+    font-weight: bold;
+}
+
+.contato {
+    margin-top: 30px;
+    max-width: 50%;
+}
+
+.contato a {
+    text-decoration: none;
+    color: #333;
+}
+
+#contato ul, #contato h3 {
+    list-style: none;
+}
+
+#form {
+    display: flex;
+    flex-flow: column;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+textarea {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    resize: none;
+    height: 150px;
+    border: none;
+}
+
+.campos {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+#sobrenosmain {
+    margin-bottom: 50px;
 }

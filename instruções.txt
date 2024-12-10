@@ -1,0 +1,64 @@
+1. Página Inicial (Home)
+Banner motivacional: Uma imagem ou vídeo chamativo com uma frase motivadora.
+Destaques do site: Treinos mais populares, programas especiais, ou depoimentos de usuários.
+
+2. Sobre Nós
+História e Missão: Conte a história por trás do site e seus objetivos.
+Equipe: Perfis breves de instrutores ou colaboradores (se aplicável).
+
+3. Treinos
+Divisão por objetivo:
+Perda de peso
+Ganho de massa muscular
+Resistência e condicionamento
+Categorias específicas:
+Treinos para iniciantes, intermediários e avançados.
+Treinos por duração: 15, 30, 60 minutos.
+Equipamento necessário: Treinos com ou sem equipamentos.
+Filtros personalizáveis: Permitir que o usuário selecione baseando-se em objetivos ou áreas do corpo.
+
+4. Planos de Treino
+Exemplos de rotinas semanais: Para diferentes objetivos.
+Sugestões de progressão: Como aumentar a intensidade ao longo do tempo.
+
+5. Nutrição
+Receitas saudáveis:
+Lanches pré e pós-treino.
+Refeições principais.
+Guias de macronutrientes: Informação sobre proteínas, carboidratos e gorduras.
+Dicas de hidratação.
+
+6. Blog ou Dicas
+Artigos motivacionais: Como criar consistência nos treinos.
+Técnicas de exercícios: Corrigir posturas e evitar lesões.
+Notícias e tendências: Equipamentos e práticas novas.
+
+7. Comunidade
+Área para depoimentos: Histórias de sucesso e motivação.
+Fórum ou Grupo: Espaço para os usuários compartilharem experiências ou tirarem dúvidas.
+8. Ferramentas e Calculadoras
+IMC e Taxa Metabólica Basal (TMB).
+Calculadora de calorias: Baseada no treino e no objetivo do usuário.
+Gerador de treino personalizado: O usuário insere suas preferências e o site sugere um plano.
+
+9. Loja (opcional)
+Produtos fitness:
+Roupas, equipamentos, suplementos.
+E-books: Com guias de treino ou receitas.
+
+10. Área de Contato
+Suporte ao usuário: Chat ou formulário.
+Redes sociais: Links para Facebook, Instagram, YouTube, etc.
+
+11. Área do Usuário
+Perfil do usuário:
+Histórico de treinos realizados.
+Progresso e métricas (se aplicável).
+Favoritos: Permitir salvar treinos preferidos.
+Notificações: Lembretes para treinar ou dicas personalizadas.
+
+12. Recursos Adicionais (opcional)
+Vídeos tutoriais: Ensinar os exercícios com detalhes.
+Desafios mensais: Incentivar os usuários a se manterem ativos.
+Integração com wearables: Relógios ou pulseiras fitness.
+Essas sessões podem ser ajustadas com base no público-alvo do seu site (ex.: pessoas que treinam em casa, na academia ou ao ar livre). Se precisar de ajuda para estruturar ou personalizar algo, me avise! 😊

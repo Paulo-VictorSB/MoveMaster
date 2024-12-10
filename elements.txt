@@ -1,0 +1,10 @@
+<section id="imc" class="section">
+    <div class="container">
+        <h2>Calcule aqui o seu Índice de Massa Corporal</h2>
+        <div id="imc">
+            <label><input type="number" id="peso" placeholder="Peso"></label>
+            <label><input type="number" id="altura" placeholder="Altura"></label>
+            <button class="btn">=</button>
+        </div>
+    </div>
+</section>
