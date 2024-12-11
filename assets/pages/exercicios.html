@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Transforme seus treinos em resultados com a MoveMaster, a plataforma completa para fitness e saúde.">
+    <meta name="keywords" content="fitness, saúde, treino, exercícios, planos de treino">
+    <meta name="author" content="Equipe MoveMaster">
+    <title>MoveMaster - Sua Jornada Fitness Começa Aqui</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="../js/index.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../../index.html">Início</a></li>
+                <li><a href="#"  class="active">Exercícios</a></li>
+                <li><a href="#">Planos</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Nutrição</a></li>
+                <li><a href="#">Ferramentas</a></li>
+                <li><a href="sobrenos.html">Sobre Nós</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="containerTreinos">
+
+      <div class="container">
+        <h1><i class="fa-solid fa-dumbbell"></i> Exercícios</h1>
+        <div class="filtros">
+          <form action="#" method="post" id="treinosFiltros">
+            <label>
+              <h3>Equipamento</h3>
+              <select id="#equipamento">
+                <option value="Todos">Todos</option>
+                <option value="Barras">Barras</option>
+                <option value="Pesos">Pesos</option>
+                <option value="Máquina de Puxada">Máquina de Puxada</option>
+                <option value="Halteres">Halteres</option>
+                <option value="Máquina Leg Press">Máquina Leg Press</option>
+                <option value="Máquina cadeira abdutora">Máquina cadeira abdutora</option>
+                <option value="Banco Scott">Banco Scott</option>
+                <option value="Máquina de Polia">Máquina de Polia</option>
+                <option value="Nenhum">Nenhum</option>
+                <option value="Máquina cadeira extensora">Máquina cadeira extensora</option>
+                <option value="Máquina Scott">Máquina Scott</option>
+                <option value="Máquina de abdominal">Máquina de abdominal</option>
+                <option value="Máquina Extensora">Máquina Extensora</option>
+                <option value="Barra Fixa">Barra Fixa</option>
+                <option value="Banco">Banco</option>
+              </select>
+            </label>
+            <label>
+              <h3>Músculo Principal</h3>
+              <select id="musculoPrincipal">
+                <option value="Todos">Todos</option>
+                <option value="Quadríceps">Quadríceps</option>
+                <option value="Peitoral maior">Peitoral maior</option>
+                <option value="Latíssimo do dorso">Latíssimo do dorso</option>
+                <option value="Bíceps braquial">Bíceps braquial</option>
+                <option value="Glúteos">Glúteos</option>
+                <option value="Isquiotibiais">Isquiotibiais</option>
+                <option value="Core">Core</option>
+                <option value="Trapézio">Trapézio</option>
+                <option value="Adutores">Adutores</option>
+              </select>
+            </label>
+            <label>
+              <h3>Músculo Secundário</h3>
+              <select id="musculoSecundario">
+                <option value="Todos">Todos</option>
+                <option value="Glúteos">Glúteos</option>
+                <option value="isquiotibiais">isquiotibiais</option>
+                <option value="Tríceps">Tríceps</option>
+                <option value="deltóides">deltóides</option>
+                <option value="Bíceps">Bíceps</option>
+                <option value="romboides">romboides</option>
+                <option value="trapézio">trapézio</option>
+                <option value="lombar">lombar</option>
+                <option value="Peitorais">Peitorais</option>
+                <option value="ombros">ombros</option>
+                <option value="Nenhum">Nenhum</option>
+              </select>
+            </label>
+            <label>
+              <h3>Categoria</h3>
+              <select id="categoria">
+                <option value="Todos">Todos</option>
+                <option value="Perna">Perna</option>
+                <option value="Peito">Peito</option>
+                <option value="Costas">Costas</option>
+                <option value="Braços">Braços</option>
+                <option value="Abdômen">Abdômen</option>
+                <option value="Ombros">Ombros</option>
+                <option value="Tríceps">Tríceps</option>
+              </select>
+            </label>
+            <button class="btn" id="btnfilter">Filtrar</button>
+          </form>
+        </div>
+      </div>
+
+      <div class="cards" id="exercícios">
+        <img srcset="assets/exercicios/Abdominal com roda/1.webp" alt="">
+      </div>        
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 MoveMaster. Todos os direitos reservados.</p>
+            <nav>
+                <ul>
+                    <li><a href="#">Política de Privacidade</a></li>
+                    <li><a href="#">Termos de Uso</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+</html>

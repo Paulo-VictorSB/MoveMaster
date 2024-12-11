@@ -36,6 +36,7 @@ Notícias e tendências: Equipamentos e práticas novas.
 7. Comunidade
 Área para depoimentos: Histórias de sucesso e motivação.
 Fórum ou Grupo: Espaço para os usuários compartilharem experiências ou tirarem dúvidas.
+
 8. Ferramentas e Calculadoras
 IMC e Taxa Metabólica Basal (TMB).
 Calculadora de calorias: Baseada no treino e no objetivo do usuário.
