@@ -282,27 +282,6 @@ textarea {
     margin-top: 30px;
 }
 
-#containerTreinos {
-    margin-top: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: column nowrap;
-}
-
-.cardExercicio{
-    background-color: white;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 350px;
-    text-align: justify;
-    gap: 5px;
-    display: flex;
-    flex-flow: column nowrap;
-    height: 750px;
-}
-
 .cards {
     display: flex;
     flex-flow: row wrap;
@@ -311,12 +290,39 @@ textarea {
 }
 
 #exercícios {
+    max-width: 70%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     flex-flow: row wrap;
-    margin-top: 20px;
-    width: 60%;
-    gap: 2em;
-    padding: 20px 0px;
+    gap: 20px;
+}
+
+.cardExercicio {
+    width: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+    padding: 10px;
+    gap: 5px;
+    text-align: justify;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f4b400;
+}
+
+.cardExercicio img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+#containerTreinos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    gap: 20px;
 }

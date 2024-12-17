@@ -32,11 +32,11 @@
       <div class="exercicios">
         <h1><i class="fa-solid fa-dumbbell"></i> Exercícios</h1>
         <div class="filtros">
-          <form action="#" method="post" id="treinosFiltros">
+          <form method="get" id="treinosFiltros">
             <label>
               <h3>Equipamento</h3>
-              <select id="#equipamento">
-                <option value="Todos">Todos</option>
+              <select id="equipamento">
+                <option value="Todos" selected>Todos</option>
                 <option value="Barras">Barras</option>
                 <option value="Pesos">Pesos</option>
                 <option value="Máquina de Puxada">Máquina de Puxada</option>
@@ -57,7 +57,7 @@
             <label>
               <h3>Músculo Principal</h3>
               <select id="musculoPrincipal">
-                <option value="Todos">Todos</option>
+                <option value="Todos" selected>Todos</option>
                 <option value="Quadríceps">Quadríceps</option>
                 <option value="Peitoral maior">Peitoral maior</option>
                 <option value="Latíssimo do dorso">Latíssimo do dorso</option>
@@ -72,7 +72,7 @@
             <label>
               <h3>Músculo Secundário</h3>
               <select id="musculoSecundario">
-                <option value="Todos">Todos</option>
+                <option value="Todos" selected>Todos</option>
                 <option value="Glúteos">Glúteos</option>
                 <option value="isquiotibiais">isquiotibiais</option>
                 <option value="Tríceps">Tríceps</option>
@@ -89,7 +89,7 @@
             <label>
               <h3>Categoria</h3>
               <select id="categoria">
-                <option value="Todos">Todos</option>
+                <option value="Todos" selected>Todos</option>
                 <option value="Perna">Perna</option>
                 <option value="Peito">Peito</option>
                 <option value="Costas">Costas</option>
@@ -99,7 +99,7 @@
                 <option value="Tríceps">Tríceps</option>
               </select>
             </label>
-            <button class="btn" id="btnfilter">Filtrar</button>
+            <button type="button" class="btn" id="btnfilter">Filtrar</button>
           </form>
         </div>
       </div>
