@@ -41,6 +41,10 @@ nav ul li a:hover, nav ul li a.active {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
 }
 
 .containerIndex {
@@ -191,7 +195,7 @@ form button:hover {
     gap: 10px;
 }
 
-#imc input[type="number"]{
+input[type="number"]{
     padding: 0.75rem;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -289,7 +293,7 @@ textarea {
     gap: 55px;
 }
 
-#exercícios {
+#exercícios, #imcContainer {
     max-width: 70%;
     display: flex;
     align-items: center;
@@ -325,4 +329,62 @@ textarea {
     justify-content: center;
     flex-flow: column;
     gap: 20px;
+}
+
+#imcContainer {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+#calcularImc {
+    gap: 20px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+#calcularImc input[type="number"]:first-of-type {
+    min-width: 500px;
+}
+
+#resultado, #resultadoTmb {
+    background-color: #f4b400;
+    color: white;
+    max-width: 300px;
+    padding: 7px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hide {
+    display: none;
+}
+
+.boxTable {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tableEscuro {
+    background: #333;
+    color: white;
+}
+.tableClaro {
+    background-color: #f4b400;
+}
+
+#calcularTmb {
+    gap: 10px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
 }

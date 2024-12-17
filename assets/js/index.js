@@ -5,23 +5,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const musculoSecundarioSelect = document.querySelector('#musculoSecundario');
     const categoriaSelect = document.querySelector('#categoria');
 
-    let exercicioData = []; // Variável para armazenar os dados do JSON
+    let exercicioData = []; 
 
-    // Função para carregar os dados do JSON
+    
     const carregarExercicios = async () => {
         try {
             const response = await fetch('../dist/exercicios.json');
             const data = await response.json();
-            exercicioData = data; // Salva os dados para uso futuro
-            exibirExercicios(exercicioData); // Exibe todos os exercícios inicialmente
+            exercicioData = data; 
+            exibirExercicios(exercicioData); 
         } catch (error) {
             console.error("Erro ao carregar o banco de dados:", error);
         }
     };
 
-    // Função para exibir os exercícios na página
     const exibirExercicios = (data) => {
-        containerExercicio.innerHTML = ''; // Limpa o container antes de renderizar
+        containerExercicio.innerHTML = '';
 
         data.forEach(item => {
             const dados = {
@@ -89,7 +88,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     };
 
-    // Função para filtrar os dados com base nos seletores
     const filtrarExercicios = () => {
         const equipamentoFiltro = equipamentoSelect.value.toLowerCase();
         const musculoPrincipalFiltro = musculoPrincipalSelect.value.toLowerCase();
@@ -105,14 +103,12 @@ document.addEventListener('DOMContentLoaded', () => {
             return equipamentoMatch && musculoPrincipalMatch && musculoSecundarioMatch && categoriaMatch;
         });
 
-        exibirExercicios(exerciciosFiltrados); // Renderiza os exercícios filtrados
+        exibirExercicios(exerciciosFiltrados);
         console.log(`Exercícios filtrados: ${exerciciosFiltrados.length}`);
     };
 
-    // Evento no botão de filtro
     const btnfilter = document.querySelector('#btnfilter');
     btnfilter.addEventListener('click', filtrarExercicios);
 
-    // Carrega os exercícios ao iniciar a página
     carregarExercicios();
 });

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Transforme seus treinos em resultados com a MoveMaster, a plataforma completa para fitness e saúde.">
+    <meta name="keywords" content="fitness, saúde, treino, exercícios, planos de treino">
+    <meta name="author" content="Equipe MoveMaster">
+    <title>MoveMaster - Sua Jornada Fitness Começa Aqui</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="../js/imc.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../../index.html">Início</a></li>
+                <li><a href="exercicios.html">Exercícios</a></li>
+                <li><a href="#">Planos</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Nutrição</a></li>
+                <li><a href="#" class="active">Ferramentas</a></li>
+                <li><a href="sobrenos.html">Sobre Nós</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div id="imcContainer">
+            <h3>Calculadora do Índice de Massa Corporal</h3>
+            <p>A classificação do índice de massa corporal (IMC) pode ajudar a identificar problemas de obesidade ou desnutrição, em crianças, adolescentes, adultos e idosos.</p>
+            <p>Além de calcular o valor de IMC, esta calculadora também indica qual o intervalo de peso ideal que deve ter para garantir uma melhor qualidade de vida. Ter um peso dentro do intervalo de peso ideal ajuda ainda a evitar o aparecimento de várias doenças crônicas, como diabetes e hipertensão.</p>
+
+            <div id="calcularImc">
+                <label>Peso<input type="number" id="peso" required></label>
+                <label>Altura <input type="number" id="altura" required></label>
+                <button class="btn" id="calc">Calcular</button>
+                <p id="resultado">Seu IMC é de: 23.4 (Sobrepeso)</p>
+            </div>
+            <h4>Como é feito o cálculo de IMC?</h4>
+            <p>O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em m), de acordo com a seguinte fórmula: IMC = peso / (altura x altura).</p>
+            <p>O resultado de IMC é dado em kg/m2.</p>
+            <h4>Como interpretar o resultado de IMC</h4>
+            <p>Depois de obter o resultado de IMC, deve-se interpretar o valor utilizando a seguinte tabela:</p>
+            <div class="boxTable">
+                <table>
+                    <tr class="tableEscuro">
+                        <td>IMC</td>
+                        <td>Classificação</td>
+                    </tr>
+                    <tr>
+                        <td>Menor que 18,5</td>
+                        <td>Magreza</td>
+                    </tr>
+                    <tr class="tableClaro">
+                        <td>18,5 a 24,9</td>
+                        <td>Normal</td>
+                    </tr>
+                    <tr>
+                        <td>25 a 29,9</td>
+                        <td>Sobrepeso</td>
+                    </tr>
+                    <tr class="tableClaro">
+                        <td>30 a 34,9</td>
+                        <td>Obesidade grau I</td>
+                    </tr>
+                    <tr>
+                        <td>35 a 39,9</td>
+                        <td>Obesidade grau II</td>
+                    </tr>
+                    <tr class="tableClaro">
+                        <td>Maior que 40</td>
+                        <td>Obesidade grau III</td>
+                    </tr>
+                </table>
+            </div>
+            <p>De acordo com o resultado de IMC também é possível prever o risco que cada pessoa tem de desenvolver doenças crônicas. Isto porque quanto maior é o valor do IMC, maior é a quantidade de gordura acumulada no corpo e maior o risco de doenças como pressão alta, diabetes e problemas cardíacos.</p>
+            <h3>Calculadora de Taxa Metabólica Basal</h3>
+            <p>A Taxa Metabólica Basal (TMB) representa a quantidade de calorias que o corpo precisa para realizar funções básicas, como respirar, manter a temperatura corporal e o funcionamento dos órgãos.</p>
+            <p>Essa calculadora ajuda a estimar a sua TMB com base em informações como peso, altura, idade e sexo. A TMB é uma medida importante para planejar dietas e entender o consumo calórico diário necessário para atingir seus objetivos.</p>
+    
+            <div id="calcularTmb">
+                <label>Peso (kg): <input type="number" id="pesoTmb" required></label>
+                <label>Altura (cm): <input type="number" id="alturaTmb" required></label>
+                <label>Idade (anos): <input type="number" id="idadeTmb" required></label>
+                <label>
+                    Sexo:
+                    <select id="sexoTmb" required>
+                        <option value="masculino">Masculino</option>
+                        <option value="feminino">Feminino</option>
+                    </select>
+                </label>
+                <button class="btn" id="calcTmb">Calcular</button>
+                <p id="resultadoTmb" class="hide"></p>
+            </div>
+    
+            <h4>Como é feito o cálculo da TMB?</h4>
+            <p>A TMB pode ser calculada utilizando diferentes fórmulas, sendo uma das mais comuns a equação de Harris-Benedict:</p>
+            <ul>
+                <li><strong>Homens:</strong> TMB = 66,47 + (13,75 × peso em kg) + (5,003 × altura em cm) − (6,755 × idade em anos)</li>
+                <li><strong>Mulheres:</strong> TMB = 655,1 + (9,563 × peso em kg) + (1,850 × altura em cm) − (4,676 × idade em anos)</li>
+            </ul>
+            <p>O resultado da TMB é dado em calorias por dia (kcal/dia).</p>
+    
+            <h4>Para que serve a TMB?</h4>
+            <p>A TMB é usada para estimar as calorias mínimas necessárias para manter o corpo em funcionamento. Combinada com o nível de atividade física, ela ajuda a calcular o gasto calórico total diário, essencial para definir dietas e metas de peso.</p>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 MoveMaster. Todos os direitos reservados.</p>
+            <nav>
+                <ul>
+                    <li><a href="#">Política de Privacidade</a></li>
+                    <li><a href="#">Termos de Uso</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+</html>
