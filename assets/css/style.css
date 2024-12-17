@@ -26,7 +26,7 @@ nav ul {
     flex-wrap: wrap;
 }
 
-nav ul li a {
+button a, nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
@@ -41,6 +41,23 @@ nav ul li a:hover, nav ul li a.active {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2rem;
+}
+
+.containerIndex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: column nowrap;
+}
+
+.containerIndex .card {
+    width: 50%;
+}
+
+.containerIndex .cards {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
 }
 
 #saiba-mais {
@@ -78,7 +95,7 @@ p {
     padding: 1.5rem;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    text-align: center
 }
 
 .card img {
@@ -283,6 +300,7 @@ textarea {
     gap: 5px;
     display: flex;
     flex-flow: column nowrap;
+    height: 750px;
 }
 
 .cards {
@@ -290,4 +308,15 @@ textarea {
     flex-flow: row wrap;
     width: 60%;
     gap: 55px;
+}
+
+#exercícios {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    margin-top: 20px;
+    width: 60%;
+    gap: 2em;
+    padding: 20px 0px;
 }

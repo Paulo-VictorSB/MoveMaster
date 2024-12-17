@@ -12,42 +12,6 @@
     "execução": "Fique em pé com os pés afastados na largura dos ombros. Abaixe o quadril e dobre os joelhos até que as coxas fiquem paralelas ao solo, mantendo as costas retas. Empurre os pés para voltar à posição inicial."
   },
   {
-    "id": 2,
-    "nome": "Supino reto",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Barras, pesos",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Tríceps, deltóides",
-    "categoria": "Peito",
-    "execução": "Deite-se em um banco reto, com os pés no chão. Segure a barra com as mãos um pouco mais afastadas que a largura dos ombros. Abaixe a barra até o peito e empurre-a de volta à posição inicial, mantendo os cotovelos controlados."
-  },
-  {
-    "id": 3,
-    "nome": "Puxada na frente (pulldown)",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Iniciante",
-    "mecânica": "Composta",
-    "equipamento": "Máquina de puxada",
-    "musculo_principal": "Latíssimo do dorso",
-    "musculo_secundario": "Bíceps, romboides",
-    "categoria": "Costas",
-    "execução": "Sentado, segure a barra da máquina com as mãos afastadas na largura dos ombros. Puxe a barra em direção ao peito, mantendo os cotovelos próximos ao corpo, e depois retorne à posição inicial de forma controlada."
-  },
-  {
-    "id": 4,
-    "nome": "Rosca direta",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Iniciante",
-    "mecânica": "Isolada",
-    "equipamento": "Barras ou halteres",
-    "musculo_principal": "Bíceps braquial",
-    "musculo_secundario": "Antebraço",
-    "categoria": "Braços",
-    "execução": "Fique em pé, segurando a barra ou halteres com as palmas das mãos voltadas para cima. Dobre os cotovelos para levantar o peso até a altura dos ombros, depois abaixe o peso de forma controlada até os braços ficarem estendidos."
-  },
-  {
     "id": 5,
     "nome": "Leg press",
     "empurrar_ou_puxar": "Empurrar",
@@ -58,18 +22,6 @@
     "musculo_secundario": "Glúteos, isquiotibiais",
     "categoria": "Perna",
     "execução": "Sente-se na máquina com os pés na plataforma, afastados na largura dos ombros. Empurre a plataforma para afastá-la do corpo, estendendo as pernas, e depois abaixe lentamente até que os joelhos fiquem em um ângulo de 90 graus."
-  },
-  {
-    "id": 6,
-    "nome": "Desenvolvimento militar",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Barras ou halteres",
-    "musculo_principal": "Deltóides",
-    "musculo_secundario": "Tríceps, trapézio",
-    "categoria": "Ombros",
-    "execução": "Fique em pé, segurando a barra ou halteres à altura dos ombros. Empurre a barra ou os halteres para cima até os braços estarem totalmente estendidos, depois abaixe de volta à altura dos ombros de forma controlada."
   },
   {
     "id": 7,
@@ -118,18 +70,6 @@
     "musculo_secundario": "Bíceps, romboides",
     "categoria": "Costas",
     "execução": "Pendure-se na barra com as mãos afastadas na largura dos ombros. Puxe o corpo para cima até o queixo ultrapassar a barra e depois abaixe de forma controlada."
-  },
-  {
-    "id": 11,
-    "nome": "Stiff",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Barras, pesos",
-    "musculo_principal": "Isquiotibiais",
-    "musculo_secundario": "Glúteos, lombar",
-    "categoria": "Perna",
-    "execução": "Com os pés na largura dos ombros e as pernas ligeiramente flexionadas, segure a barra na frente das coxas. Dobre os quadris para abaixar a barra até a altura dos joelhos e, em seguida, retorne à posição inicial, apertando os glúteos no final do movimento."
   },
   {
     "id": 12,
@@ -229,30 +169,6 @@
     "execução": "Sente-se na máquina com os pés na plataforma, afastados na largura dos ombros. Empurre a plataforma com os pés até as pernas ficarem esticadas, depois abaixe lentamente até os joelhos formarem um ângulo de 90 graus."
   },
   {
-    "id": 20,
-    "nome": "Encolhimento de ombros",
-    "empurrar_ou_puxar": "Nenhum",
-    "nível": "Iniciante",
-    "mecânica": "Isolada",
-    "equipamento": "Halteres",
-    "musculo_principal": "Trapézio",
-    "musculo_secundario": "Deltóides",
-    "categoria": "Ombros",
-    "execução": "Fique em pé segurando um haltere em cada mão ao lado do corpo. Eleve os ombros em direção às orelhas, contraindo o trapézio, e depois retorne à posição inicial."
-  },
-  {
-    "id": 21,
-    "nome": "Puxada frente na polia alta",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Polia alta",
-    "musculo_principal": "Latíssimo do dorso",
-    "musculo_secundario": "Bíceps, romboides",
-    "categoria": "Costas",
-    "execução": "Sente-se na polia alta e segure a barra com as mãos afastadas na largura dos ombros. Puxe a barra para baixo até o peito, mantendo os cotovelos próximos ao corpo. Retorne lentamente à posição inicial."
-  },
-  {
     "id": 22,
     "nome": "Desenvolvimento militar",
     "empurrar_ou_puxar": "Empurrar",
@@ -277,18 +193,6 @@
     "execução": "Sente-se na máquina com as pernas sob o apoio, com os pés posicionados para empurrar a plataforma. Estique as pernas até ficarem totalmente esticadas e depois retorne à posição inicial."
   },
   {
-    "id": 24,
-    "nome": "Rosca direta",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Iniciante",
-    "mecânica": "Isolada",
-    "equipamento": "Barra ou halteres",
-    "musculo_principal": "Bíceps",
-    "musculo_secundario": "Nenhum",
-    "categoria": "Bíceps",
-    "execução": "Segure a barra ou os halteres com as palmas das mãos voltadas para cima. Dobre os cotovelos para levantar o peso em direção aos ombros e depois abaixe lentamente até a posição inicial."
-  },
-  {
     "id": 25,
     "nome": "Abdominal na polia alta",
     "empurrar_ou_puxar": "Nenhum",
@@ -298,7 +202,7 @@
     "musculo_principal": "Abdômen",
     "musculo_secundario": "Oblíquos",
     "categoria": "Abdômen",
-    "execução": "Sente-se na máquina com a polia alta ajustada à altura das suas costas. Puxe a corda para baixo, flexionando o tronco enquanto mantém os quadris fixos. Retorne à posição inicial controlando o movimento."
+    "execução": "Fique em pé na máquina com a polia alta ajustada à altura na parte de cima. Puxe a corda para baixo, flexionando o tronco enquanto mantém os quadris fixos. Retorne à posição inicial controlando o movimento."
   },
   {
     "id": 26,
@@ -313,19 +217,6 @@
     "execução": "Posicione as mãos próximas uma da outra, com os dedos tocando-se ou formando uma pegada mais fechada. Realize a flexão de braço, focando no trabalho do tríceps. Abaixe até o peito quase tocar o chão e depois empurre de volta."
   },
   {
-    "id": 27,
-    "nome": "Puxada na polia baixa",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Polia baixa",
-    "musculo_principal": "Latíssimo do dorso",
-    "musculo_secundario": "Bíceps",
-    "categoria": "Costas",
-    "execução": "Sente-se na polia baixa com os pés apoiados no chão e as mãos segurando a barra. Puxe a barra em direção ao peito, mantendo os cotovelos próximos ao corpo e depois retorne lentamente."
-  },
-
-  {
     "id": 28,
     "nome": "Agachamento com barra",
     "empurrar_ou_puxar": "Empurrar",
@@ -336,18 +227,6 @@
     "musculo_secundario": "Glúteos, isquiotibiais",
     "categoria": "Perna",
     "execução": "Posicione a barra na parte superior das costas, mantendo os pés afastados na largura dos ombros. Agache até que as coxas fiquem paralelas ao chão ou mais, e depois empurre de volta até a posição inicial."
-  },
-  {
-    "id": 29,
-    "nome": "Crucifixo com halteres",
-    "empurrar_ou_puxar": "Nenhum",
-    "nível": "Intermediário",
-    "mecânica": "Isolada",
-    "equipamento": "Halteres",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Deltóides",
-    "categoria": "Peito",
-    "execução": "Deite-se em um banco plano com um haltere em cada mão. Com os braços ligeiramente curvados, abra-os para os lados até que os cotovelos fiquem alinhados com os ombros e depois retorne à posição inicial."
   },
   {
     "id": 30,
@@ -372,18 +251,6 @@
     "musculo_secundario": "Tríceps, deltóides",
     "categoria": "Peito",
     "execução": "Deite-se de barriga para baixo e coloque as mãos no chão, alinhadas com os ombros. Abaixe o corpo até o peito quase tocar o chão e depois empurre para cima até os braços ficarem esticados."
-  },
-  {
-    "id": 32,
-    "nome": "Remada curvada com barra",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Avançado",
-    "mecânica": "Composta",
-    "equipamento": "Barra",
-    "musculo_principal": "Latíssimo do dorso",
-    "musculo_secundario": "Trapézio, romboides",
-    "categoria": "Costas",
-    "execução": "Fique de pé com os joelhos ligeiramente flexionados e a barra em frente ao corpo. Puxe a barra em direção à parte superior do abdômen, mantendo os cotovelos próximos ao corpo. Abaixe a barra controlando o movimento."
   },
   {
     "id": 33,
@@ -495,18 +362,6 @@
     "execução": "Segure a barra com as palmas das mãos voltadas para cima e os cotovelos junto ao corpo. Flexione os cotovelos para levantar a barra em direção aos ombros e depois abaixe-a controlando o movimento."
   },
   {
-    "id": 42,
-    "nome": "Tríceps pulley",
-    "empurrar_ou_puxar": "Nenhum",
-    "nível": "Intermediário",
-    "mecânica": "Isolada",
-    "equipamento": "Polia alta",
-    "musculo_principal": "Tríceps",
-    "musculo_secundario": "Nenhum",
-    "categoria": "Tríceps",
-    "execução": "Fique de frente para a polia alta e segure a corda com ambas as mãos. Puxe a corda para baixo, estendendo os braços e contraindo os tríceps. Retorne à posição inicial controlando o movimento."
-  },
-  {
     "id": 43,
     "nome": "Flexão de braço com apoio de joelhos",
     "empurrar_ou_puxar": "Empurrar",
@@ -616,18 +471,6 @@
     "execução": "Sente-se ou fique em pé, segure um haltere em cada mão na altura dos ombros e empurre-os para cima até os braços estarem completamente esticados. Controle o movimento ao descer."
   },
   {
-    "id": 52,
-    "nome": "Flexão de braço com os pés elevados",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Avançado",
-    "mecânica": "Composta",
-    "equipamento": "Nenhum",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Tríceps, deltóides",
-    "categoria": "Peito",
-    "execução": "Posicione os pés elevados em uma superfície, com as mãos no chão na largura dos ombros. Abaixe o corpo até que o peito quase toque o chão, depois empurre-se para cima."
-  },
-  {
     "id": 53,
     "nome": "Puxada alta com corda",
     "empurrar_ou_puxar": "Puxar",
@@ -674,18 +517,6 @@
     "musculo_secundario": "Deltoides anterior",
     "categoria": "Peito",
     "execução": "Sente-se na máquina com as costas apoiadas e segure as alças com os cotovelos ligeiramente flexionados. Empurre as alças para frente, juntando as mãos e contraindo o peito."
-  },
-  {
-    "id": 57,
-    "nome": "Levantamento terra",
-    "empurrar_ou_puxar": "Nenhum",
-    "nível": "Avançado",
-    "mecânica": "Composta",
-    "equipamento": "Barra",
-    "musculo_principal": "Glúteos",
-    "musculo_secundario": "Isquiotibiais, lombar, trapézio",
-    "categoria": "Perna",
-    "execução": "Fique em pé com os pés na largura dos ombros e a barra à sua frente. Dobre os joelhos e desça o tronco para pegar a barra, mantendo as costas retas. Levante a barra mantendo o tronco ereto."
   },
   {
     "id": 58,
@@ -737,18 +568,6 @@
     "execução": "Segure um haltere em cada mão com as palmas voltadas uma para a outra. Flexione os cotovelos para levantar os halteres em direção aos ombros, mantendo os braços estáveis, e depois abaixe-os lentamente."
   },
   {
-    "id": 62,
-    "nome": "Prensa de ombro com barra",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Avançado",
-    "mecânica": "Composta",
-    "equipamento": "Barra",
-    "musculo_principal": "Deltóides",
-    "musculo_secundario": "Tríceps",
-    "categoria": "Ombro",
-    "execução": "Em pé ou sentado, segure a barra na altura dos ombros e empurre para cima até os braços estarem totalmente estendidos. Controle a barra ao descer."
-  },
-  {
     "id": 63,
     "nome": "Agachamento búlgaro",
     "empurrar_ou_puxar": "Empurrar",
@@ -783,18 +602,6 @@
     "musculo_secundario": "Nenhum",
     "categoria": "Perna",
     "execução": "Sente-se na cadeira abdutora, posicione as pernas nas almofadas laterais e afaste-as até o limite do movimento. Retorne lentamente à posição inicial."
-  },
-  {
-    "id": 66,
-    "nome": "Pullover com haltere",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Intermediário",
-    "mecânica": "Isolada",
-    "equipamento": "Halteres",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Latíssimo do dorso",
-    "categoria": "Peito",
-    "execução": "Deite-se em um banco com um haltere nas mãos, com os braços esticados acima do peito. Abaixe os braços para trás da cabeça e retorne à posição inicial."
   },
   {
     "id": 67,
@@ -990,18 +797,6 @@
     "execução": "Segure a barra da polia alta, com as mãos afastadas na largura dos ombros, puxe a barra para baixo até o peito, controlando o movimento e retornando lentamente à posição inicial."
   },
   {
-    "id": 83,
-    "nome": "Prancha",
-    "empurrar_ou_puxar": "Nenhum",
-    "nível": "Iniciante",
-    "mecânica": "Isolada",
-    "equipamento": "Nenhum",
-    "musculo_principal": "Core",
-    "musculo_secundario": "Nenhum",
-    "categoria": "Core",
-    "execução": "Deite-se de barriga para baixo, apoie os antebraços e os pés no chão, mantendo o corpo reto e contraído. Mantenha a posição o máximo de tempo possível."
-  },
-  {
     "id": 84,
     "nome": "Leg Press",
     "empurrar_ou_puxar": "Empurrar",
@@ -1048,30 +843,6 @@
     "musculo_secundario": "Trapézio, lombar",
     "categoria": "Perna",
     "execução": "Com os pés afastados na largura dos ombros e a barra à frente, dobre os joelhos e os quadris para pegar a barra. Levante-a, esticando as pernas e os quadris até que o corpo esteja ereto, depois desça controlando o movimento."
-  },
-  {
-    "id": 88,
-    "nome": "Supino reto com barra",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Barra e banco",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Tríceps, deltoide anterior",
-    "categoria": "Peito",
-    "execução": "Deite-se de costas em um banco reto, segure a barra com as mãos afastadas na largura dos ombros, abaixe-a até o peito e empurre-a de volta à posição inicial."
-  },
-  {
-    "id": 89,
-    "nome": "Desenvolvimento de ombro com barra",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Barra",
-    "musculo_principal": "Deltoide",
-    "musculo_secundario": "Tríceps",
-    "categoria": "Ombro",
-    "execução": "Sentado ou em pé, segure a barra na altura dos ombros e empurre-a para cima até os braços ficarem totalmente estendidos. Retorne controlando o movimento."
   },
   {
     "id": 90,
@@ -1132,19 +903,7 @@
     "musculo_secundario": "Nenhum",
     "categoria": "Tríceps",
     "execução": "Segure a barra ou corda na polia alta, com as mãos afastadas. Puxe a barra para baixo até os cotovelos estarem totalmente estendidos, controlando o movimento ao retornar."
-  },
-  {
-    "id": 95,
-    "nome": "Pull over com haltere",
-    "empurrar_ou_puxar": "Puxar",
-    "nível": "Intermediário",
-    "mecânica": "Isolada",
-    "equipamento": "Halteres",
-    "musculo_principal": "Dorsal",
-    "musculo_secundario": "Tríceps",
-    "categoria": "Costas",
-    "execução": "Deite-se em um banco, segure o haltere com as duas mãos acima do peito e, com os braços estendidos, abaixe o haltere para trás da cabeça. Retorne à posição inicial controlando o movimento."
-  },
+  },  
   {
     "id": 96,
     "nome": "Agachamento búlgaro",
@@ -1156,18 +915,6 @@
     "musculo_secundario": "Glúteos, isquiotibiais",
     "categoria": "Perna",
     "execução": "Coloque um pé em um banco atrás de você, segure um haltere em cada mão e agache até o joelho da perna de trás quase tocar o chão. Levante-se de volta à posição inicial."
-  },
-  {
-    "id": 97,
-    "nome": "Flexão declinada",
-    "empurrar_ou_puxar": "Empurrar",
-    "nível": "Intermediário",
-    "mecânica": "Composta",
-    "equipamento": "Nenhum",
-    "musculo_principal": "Peitoral maior",
-    "musculo_secundario": "Tríceps",
-    "categoria": "Peito",
-    "execução": "Com os pés elevados em um banco, faça a flexão de braço, controlando o movimento ao descer e empurrando-se de volta à posição inicial."
   },
   {
     "id": 98,
