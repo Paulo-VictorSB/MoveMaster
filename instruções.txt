@@ -41,25 +41,3 @@ Fórum ou Grupo: Espaço para os usuários compartilharem experiências ou tirar
 IMC e Taxa Metabólica Basal (TMB).
 Calculadora de calorias: Baseada no treino e no objetivo do usuário.
 Gerador de treino personalizado: O usuário insere suas preferências e o site sugere um plano.
-
-9. Loja (opcional)
-Produtos fitness:
-Roupas, equipamentos, suplementos.
-E-books: Com guias de treino ou receitas.
-
-10. Área de Contato
-Suporte ao usuário: Chat ou formulário.
-Redes sociais: Links para Facebook, Instagram, YouTube, etc.
-
-11. Área do Usuário
-Perfil do usuário:
-Histórico de treinos realizados.
-Progresso e métricas (se aplicável).
-Favoritos: Permitir salvar treinos preferidos.
-Notificações: Lembretes para treinar ou dicas personalizadas.
-
-12. Recursos Adicionais (opcional)
-Vídeos tutoriais: Ensinar os exercícios com detalhes.
-Desafios mensais: Incentivar os usuários a se manterem ativos.
-Integração com wearables: Relógios ou pulseiras fitness.
-Essas sessões podem ser ajustadas com base no público-alvo do seu site (ex.: pessoas que treinam em casa, na academia ou ao ar livre). Se precisar de ajuda para estruturar ou personalizar algo, me avise! 😊

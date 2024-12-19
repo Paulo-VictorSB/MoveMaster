@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="../js/imc.js" defer></script>
+    <script src="../js/tmb.js" defer></script>
 </head>
 <body>
     <header>
@@ -17,7 +18,7 @@
             <ul>
                 <li><a href="../../index.html">Início</a></li>
                 <li><a href="exercicios.html">Exercícios</a></li>
-                <li><a href="#">Planos</a></li>
+                <li><a href="planos.html">Planos</a></li>
                 <li><a href="#">Blog</a></li>
                 <li><a href="#">Nutrição</a></li>
                 <li><a href="#" class="active">Ferramentas</a></li>
@@ -37,7 +38,7 @@
                 <label>Peso<input type="number" id="peso" required></label>
                 <label>Altura <input type="number" id="altura" required></label>
                 <button class="btn" id="calc">Calcular</button>
-                <p id="resultado">Seu IMC é de: 23.4 (Sobrepeso)</p>
+                <p id="resultado" class="hide"></p>
             </div>
             <h4>Como é feito o cálculo de IMC?</h4>
             <p>O IMC é calculado dividindo o peso (em kg) pela altura ao quadrado (em m), de acordo com a seguinte fórmula: IMC = peso / (altura x altura).</p>
@@ -94,6 +95,7 @@
                 </label>
                 <button class="btn" id="calcTmb">Calcular</button>
                 <p id="resultadoTmb" class="hide"></p>
+                <button class="btn" style="font-weight: bold;">Gerar dieta a partir do seu TMB</button>
             </div>
     
             <h4>Como é feito o cálculo da TMB?</h4>
@@ -105,7 +107,24 @@
             <p>O resultado da TMB é dado em calorias por dia (kcal/dia).</p>
     
             <h4>Para que serve a TMB?</h4>
-            <p>A TMB é usada para estimar as calorias mínimas necessárias para manter o corpo em funcionamento. Combinada com o nível de atividade física, ela ajuda a calcular o gasto calórico total diário, essencial para definir dietas e metas de peso.</p>
+            <p>A TMB é usada para estimar as calorias mínimas necessárias para manter o corpo em funcionamento. Combinada com o nível de atividade física, ela ajuda a calcular o gasto calórico total diário, essencial para definir dietas e metas de peso.</p>            
+            <h3>Gerar dieta personalizada</h3>
+            <div id="gerar-dieta" style="display: flex; flex-flow: column; align-items: center; gap: 10px;">
+                <div style="max-width: 50%;">
+                    <h4>Objetivo: </h4>
+                    <select id="objetivo-dieta">
+                        <option value="Todos" selected>Todos</option>
+                        <option value="Perder gordura">Perder gordura</option>
+                        <option value="Ganhar massa muscular">Ganhar massa muscular</option>
+                        <option value="Melhorar performance esportiva">Melhorar performance esportiva</option>
+                        <option value="Ganhar peso (hipertrofia intensa)">Ganhar peso (hipertrofia intensa)</option>
+                    </select>
+                    <h4>Calorias: </h4>
+                    <input type="number" id="calorias"><br>
+                    <span style="font-size: .7em; font-style: italic;">nota: se você não souber quantas calorias precisa, recomendo que use nosso calculador de TMB, logo acima.</span>
+                </div>
+                <button class="btn">Gerar Dieta Personalizada</button>
+            </div>
         </div>
     </div>
 

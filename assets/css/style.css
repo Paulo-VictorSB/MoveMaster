@@ -38,13 +38,15 @@ nav ul li a:hover, nav ul li a.active {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 70%;
     margin: 0 auto;
     padding: 0 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-flow: column nowrap;
+    margin-bottom: 20px;
+    gap: 10px;
 }
 
 .containerIndex {
@@ -195,7 +197,7 @@ form button:hover {
     gap: 10px;
 }
 
-input[type="number"]{
+input[type="number"], #calcularTmb input[type="text"]{
     padding: 0.75rem;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -372,6 +374,7 @@ textarea {
 table {
     border-collapse: collapse;
     width: 100%;
+    border: 1px solid black;
 }
 
 .tableEscuro {
@@ -387,4 +390,16 @@ table {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
+}
+
+p, h1, h2, h3, h4, h5, label {
+    text-align: justify;
+}
+
+td {
+    padding: 10px;
+}
+
+span {
+    font-weight: bold;
 }

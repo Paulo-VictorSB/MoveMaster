@@ -1,0 +1,92 @@
+[
+    {
+        "objetivo": "Perder gordura",
+        "kcal": 1200,
+        "cafe": "1 fatia de pão integral + 1 ovo cozido + 1 fatia de abacate (50g).",
+        "lanche_manha": "1 maçã.",
+        "almoco": "100g de peito de frango grelhado + 1/2 xícara de arroz integral + salada de folhas verdes com azeite (5ml).",
+        "lanche_tarde": "1 iogurte natural zero açúcar + 1 colher de chia.",
+        "janta": "Omelete com 3 claras e 1 gema + legumes refogados."
+    },
+    {   
+        "objetivo": "Perder gordura",
+        "kcal": 1400,
+        "cafe": "2 ovos mexidos + 1 fatia de pão integral + 1 xícara de café sem açúcar.",
+        "lanche_manha": "1 banana.",
+        "almoco": "120g de tilápia grelhada + 1/2 xícara de quinoa + brócolis cozidos à vontade.",
+        "lanche_tarde": "1 castanha-do-pará + 1 copo de suco de limão com adoçante natural.",
+        "janta": "Salada de folhas com 1 lata de atum em água + azeite (5ml)."
+    },
+    {   
+        "objetivo": "Perder gordura",
+        "kcal": 1600,
+        "cafe": "2 fatias de pão integral + 1 colher de pasta de amendoim + 1 copo de leite desnatado.",
+        "lanche_manha": "10 amêndoas.",
+        "almoco": "120g de peito de frango + 1 xícara de batata-doce amassada + salada colorida com azeite.",
+        "lanche_tarde": "1 barra de proteína.",
+        "janta": "1 filé de salmão grelhado (100g) + 1 xícara de purê de abóbora + couve refogada."
+    },
+    {   
+        "objetivo": "Perder gordura",
+        "kcal": 1800,
+        "cafe": "Smoothie de 1 banana + 1 colher de whey protein + 200ml de leite desnatado + aveia.",
+        "lanche_manha": "1 maçã + 1 castanha-do-pará.",
+        "almoco": "150g de peito de peru assado + 1 xícara de arroz integral + 1/2 abobrinha grelhada.",
+        "lanche_tarde": "1 torrada integral com 1 colher de requeijão light.",
+        "janta": "1 omelete de 2 ovos + 1 fatia de queijo branco + 1/2 xícara de quinoa."
+    },
+    {   
+        "objetivo": "Ganhar massa muscular",
+        "kcal": 2200,
+        "cafe": "3 ovos mexidos + 1 tapioca com 1 colher de pasta de amendoim + 1 banana.",
+        "lanche_manha": "1 barra de proteína + 1 iogurte grego zero.",
+        "almoco": "150g de patinho moído + 1 xícara de arroz integral + feijão preto (1 concha) + salada.",
+        "lanche_tarde": "1 shake de whey protein + 200ml de leite integral + aveia.",
+        "janta": "150g de frango desfiado + 1 xícara de purê de mandioquinha + 1 ovo cozido."
+    },
+    {   
+        "objetivo": "Ganhar massa muscular",
+        "kcal": 2400,
+        "cafe": "1 copo de leite integral + 1 pão francês com queijo branco e peito de peru.",
+        "lanche_manha": "1 mix de castanhas (30g).",
+        "almoco": "200g de peito de frango grelhado + 1 xícara de batata-doce + brócolis e cenoura cozidos.",
+        "lanche_tarde": "1 wrap integral com frango desfiado e requeijão light.",
+        "janta": "1 filé de peixe grelhado + 1 xícara de macarrão integral + azeite."
+    },
+    {   
+        "objetivo": "Melhorar performance esportiva",
+        "kcal": 2800,
+        "cafe": "Smoothie com leite integral, whey protein, aveia, 1 banana e pasta de amendoim.",
+        "lanche_manha": "1 tapioca com frango desfiado e requeijão light.",
+        "almoco": "200g de salmão grelhado + 1 xícara de arroz branco + legumes grelhados.",
+        "lanche_tarde": "1 batata-doce + 2 ovos cozidos.",
+        "janta": "200g de carne magra (alcatra) + 1 xícara de purê de batata + 1 ovo."
+    },
+    {   
+        "objetivo": "Melhorar performance esportiva",
+        "kcal": 3200,
+        "cafe": "3 ovos mexidos com queijo branco + pão francês + café com leite integral.",
+        "lanche_manha": "1 barra de proteína + 10 castanhas.",
+        "almoco": "200g de peito de frango + 1 concha de feijão + 1 xícara de arroz integral + salada com azeite.",
+        "lanche_tarde": "1 shake com leite integral, aveia e whey protein.",
+        "janta": "200g de filé mignon grelhado + 1 xícara de macarrão com molho de tomate caseiro."
+    },
+    {   
+        "objetivo": "Ganhar peso (hipertrofia intensa)",
+        "kcal": 4000,
+        "cafe": "4 ovos mexidos com queijo + 2 fatias de pão integral com pasta de amendoim + 1 suco de laranja.",
+        "lanche_manha": "1 shake de whey + aveia + 1 colher de mel.",
+        "almoco": "300g de carne vermelha grelhada + 1 xícara de arroz branco + feijão preto (2 conchas) + salada.",
+        "lanche_tarde": "1 wrap integral com frango e requeijão.",
+        "janta": "250g de salmão grelhado + 1 xícara de purê de batata + azeite."
+    },
+    {   
+        "objetivo": "Ganhar peso (hipertrofia intensa)",
+        "kcal": 4500,
+        "cafe": "5 ovos mexidos com queijo + 1 pão francês com manteiga + café com leite integral.",
+        "lanche_manha": "1 banana com pasta de amendoim + 1 shake de whey com aveia.",
+        "almoco": "300g de frango grelhado + 1 xícara de macarrão integral com azeite + brócolis.",
+        "lanche_tarde": "1 sanduíche natural com peito de peru, requeijão e salada.",
+        "janta": "300g de carne vermelha + 1 xícara de purê de mandioquinha + legumes cozidos."
+    } 
+]
