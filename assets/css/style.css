@@ -403,3 +403,15 @@ td {
 span {
     font-weight: bold;
 }
+
+#tabela-nutricao tr, td {
+    border: 1px solid #333;
+}
+
+#tabela-dieta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+    gap: 20px;
+}

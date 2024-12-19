@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="../js/imc.js" defer></script>
     <script src="../js/tmb.js" defer></script>
+    <script src="../js/gerar-dieta.js" defer></script>
 </head>
 <body>
     <header>
@@ -83,6 +84,7 @@
             <p>Essa calculadora ajuda a estimar a sua TMB com base em informações como peso, altura, idade e sexo. A TMB é uma medida importante para planejar dietas e entender o consumo calórico diário necessário para atingir seus objetivos.</p>
     
             <div id="calcularTmb">
+                <label>Nome: <input type="text" id="nomeTmb" required></label>
                 <label>Peso (kg): <input type="number" id="pesoTmb" required></label>
                 <label>Altura (cm): <input type="number" id="alturaTmb" required></label>
                 <label>Idade (anos): <input type="number" id="idadeTmb" required></label>
@@ -123,7 +125,21 @@
                     <input type="number" id="calorias"><br>
                     <span style="font-size: .7em; font-style: italic;">nota: se você não souber quantas calorias precisa, recomendo que use nosso calculador de TMB, logo acima.</span>
                 </div>
-                <button class="btn">Gerar Dieta Personalizada</button>
+                <button class="btn" id="gerarDieta">Gerar Dieta Personalizada</button>
+                <div style="max-width: 70%; gap: 10px; display: flex; align-items: center; justify-content: center; flex-flow: column nowrap;" id="dieta-container">
+                    <div id="tabela-dieta">
+                        
+                    </div>
+                    <h4>Dicas de substituições</h4>
+                    <ol style="margin-left: 20px;">
+                        <li><span>Pães</span>: Substitua pão francês por pão integral ou tapioca.</li>
+                        <li><span>Arroz branco</span>: Troque por arroz integral ou quinoa.</li>
+                        <li><span>Carnes</span>: Varie entre frango, peixe (tilápia, salmão) e carne magra.</li>
+                        <li><span>Leites e derivados</span>: Use versões desnatadas para reduzir calorias ou integrais para aumentar calorias.</li>
+                        <li><span>Lanches rápidos</span>: Barras de proteína podem ser trocadas por mix de castanhas ou frutas com whey.</li>
+                        <li><span>Molhos e temperos</span>: Use azeite e limão no lugar de molhos prontos.</li>
+                    </ol>
+                </div>
             </div>
         </div>
     </div>
