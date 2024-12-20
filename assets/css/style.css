@@ -415,3 +415,7 @@ span {
     flex-flow: column nowrap;
     gap: 20px;
 }
+
+.ancoras a {
+    text-decoration: none;
+}

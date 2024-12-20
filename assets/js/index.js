@@ -7,7 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let exercicioData = []; 
 
-    
     const carregarExercicios = async () => {
         try {
             const response = await fetch('../dist/exercicios.json');

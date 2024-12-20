@@ -1,0 +1,538 @@
+{
+"segunda": [
+    {
+    "nome": "Crucifixo Voador",
+    "foco": "Peitorais",
+    "equipamento": "Halteres e banco plano",
+    "execucao": [
+        "Deite-se em um banco plano com um halter em cada mão, braços estendidos acima do peito.",
+        "Com os cotovelos ligeiramente flexionados, abaixe os braços lateralmente até sentir um leve alongamento no peito.",
+        "Retorne à posição inicial, contraindo o peitoral."
+    ],
+    "dicas": [
+        "Mantenha os ombros estáveis.",
+        "Não deixe os cotovelos esticarem completamente."
+    ]
+    },
+    {
+    "nome": "Supino Reto com Barra ou Halteres",
+    "foco": "Peitorais, deltoides e tríceps",
+    "equipamento": "Barra ou halteres e banco plano",
+    "execucao": [
+        "Deite-se no banco, segurando a barra ou halteres com as mãos um pouco mais afastadas que a largura dos ombros.",
+        "Abaixe lentamente o peso até a altura do peito, mantendo os cotovelos em um ângulo de 90 graus.",
+        "Empurre o peso de volta à posição inicial."
+    ],
+    "dicas": [
+        "Não arqueie a coluna.",
+        "Controle o movimento durante a descida."
+    ]
+    },
+    {
+    "nome": "Supino Inclinado com Barra ou Halteres",
+    "foco": "Parte superior do peitoral",
+    "equipamento": "Barra ou halteres e banco inclinado (30–45 graus)",
+    "execucao": [
+        "Sente-se no banco inclinado, segurando a barra ou halteres na posição inicial acima do peito.",
+        "Abaixe o peso lentamente em direção à parte superior do peito.",
+        "Pressione para cima, retornando à posição inicial."
+    ],
+    "dicas": [
+        "Evite inclinações excessivas do banco.",
+        "Mantenha o abdômen contraído."
+    ]
+    },
+    {
+    "nome": "Cross Over (Cabo)",
+    "foco": "Peitorais",
+    "equipamento": "Estação de cabo",
+    "execucao": [
+        "Ajuste as polias em uma posição alta e segure as alças com as mãos.",
+        "Dê um passo à frente, inclinando-se levemente.",
+        "Puxe as alças para frente e para baixo, cruzando os braços na frente do corpo.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha uma leve flexão nos cotovelos.",
+        "Controle o movimento de volta."
+    ]
+    },
+    {
+    "nome": "Tríceps na Corda (Cabo)",
+    "foco": "Tríceps",
+    "equipamento": "Corda na estação de cabo",
+    "execucao": [
+        "Segure a corda com as duas mãos, mantendo os cotovelos próximos ao corpo.",
+        "Estenda os braços para baixo, separando as extremidades da corda no final do movimento.",
+        "Retorne os braços à posição inicial, controlando o peso."
+    ],
+    "dicas": [
+        "Não mova os ombros.",
+        "Use um peso que permita a execução correta."
+    ]
+    },
+    {
+    "nome": "Tríceps Francês com Halteres ou Barra EZ",
+    "foco": "Tríceps",
+    "equipamento": "Halteres ou barra EZ",
+    "execucao": [
+        "Sente-se ou deite-se segurando o peso com as mãos em posição neutra.",
+        "Abaixe o peso atrás da cabeça, dobrando os cotovelos.",
+        "Estenda os braços para retornar à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha os cotovelos estáveis.",
+        "Evite movimentos bruscos."
+    ]
+    },
+    {
+    "nome": "Tríceps Testa (Banco)",
+    "foco": "Tríceps",
+    "equipamento": "Barra EZ ou halteres e banco plano",
+    "execucao": [
+        "Deite-se no banco segurando a barra ou halteres acima da cabeça.",
+        "Abaixe o peso em direção à testa, dobrando apenas os cotovelos.",
+        "Estenda os braços, retornando à posição inicial."
+    ],
+    "dicas": [
+        "Controle o peso na descida.",
+        "Mantenha os cotovelos fixos."
+    ]
+    },
+    {
+    "nome": "Tríceps Concentrado (Uma Mão)",
+    "foco": "Cabeça longa do tríceps",
+    "equipamento": "Halter",
+    "execucao": [
+        "Sente-se em um banco, segurando um halter com uma mão.",
+        "Apoie o cotovelo na parte interna da coxa.",
+        "Estenda o braço para cima, contraindo o tríceps.",
+        "Abaixe lentamente o halter, retornando à posição inicial."
+    ],
+    "dicas": [
+        "Use um peso moderado.",
+        "Mantenha o movimento controlado."
+    ]
+    }
+],
+"terça": [
+    {
+    "nome": "Barra Fixa (com peso corporal ou assistida)",
+    "foco": "Costas (lats) e bíceps",
+    "equipamento": "Barra fixa",
+    "execucao": [
+        "Segure a barra com as palmas das mãos voltadas para frente (pegada pronada) ou para trás (pegada supinada).",
+        "Puxe o corpo para cima até que o queixo ultrapasse a barra, contraindo as costas e os bíceps.",
+        "Abaixe-se de volta à posição inicial com controle."
+    ],
+    "dicas": [
+        "Evite balançar o corpo.",
+        "Mantenha o core contraído durante o movimento."
+    ]
+    },
+    {
+    "nome": "Remada Curvada com Barra ou Halteres",
+    "foco": "Costas (lats, trapézio e romboides) e bíceps",
+    "equipamento": "Barra ou halteres",
+    "execucao": [
+        "Com os joelhos ligeiramente flexionados, incline-se para frente mantendo a coluna reta.",
+        "Segure a barra ou os halteres com as palmas das mãos voltadas para baixo.",
+        "Puxe o peso em direção à parte inferior do peito, apertando as escápulas.",
+        "Abaixe lentamente o peso de volta à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha os cotovelos próximos ao corpo.",
+        "Não arqueie as costas."
+    ]
+    },
+    {
+    "nome": "Puxada no Pulley (pegada aberta)",
+    "foco": "Costas (lats) e bíceps",
+    "equipamento": "Estação de pulley",
+    "execucao": [
+        "Ajuste as polias do pulley na altura superior e segure a barra com as mãos em uma pegada aberta.",
+        "Puxe a barra para baixo até que ela fique próxima ao peito, mantendo os cotovelos afastados do corpo.",
+        "Retorne lentamente à posição inicial, controlando o movimento."
+    ],
+    "dicas": [
+        "Mantenha os ombros estáveis.",
+        "Evite usar impulso para puxar a barra."
+    ]
+    },
+    {
+    "nome": "Serrote (Remada Unilateral com Halter)",
+    "foco": "Costas (lats e romboides) e bíceps",
+    "equipamento": "Halter e banco plano",
+    "execucao": [
+        "Apoie uma mão e o joelho de um lado do banco, com a outra mão segurando o halter.",
+        "Puxe o halter em direção ao quadril, mantendo o cotovelo próximo ao corpo.",
+        "Retorne lentamente o halter à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha o tronco estável durante o movimento.",
+        "Evite girar o corpo ao puxar o halter."
+    ]
+    },
+    {
+    "nome": "Rosca Direta com Barra ou Halteres",
+    "foco": "Bíceps",
+    "equipamento": "Barra ou halteres",
+    "execucao": [
+        "Fique em pé, segurando a barra ou os halteres com as palmas voltadas para frente.",
+        "Flexione os cotovelos, levantando o peso até a altura dos ombros, contraindo os bíceps.",
+        "Retorne o peso à posição inicial com controle."
+    ],
+    "dicas": [
+        "Mantenha os cotovelos fixos ao lado do corpo.",
+        "Evite balançar o tronco."
+    ]
+    },
+    {
+    "nome": "Rosca Alternada (sentado ou em pé)",
+    "foco": "Bíceps",
+    "equipamento": "Halteres",
+    "execucao": [
+        "Segure um halter em cada mão, com os braços estendidos ao lado do corpo.",
+        "Flexione um cotovelo, levantando o halter em direção ao ombro, enquanto mantém o outro braço estendido.",
+        "Retorne o halter à posição inicial e repita o movimento com o outro braço."
+    ],
+    "dicas": [
+        "Controle o movimento durante a descida.",
+        "Evite movimentos bruscos."
+    ]
+    },
+    {
+    "nome": "Rosca Martelo (pegada neutra)",
+    "foco": "Bíceps (braquial) e antebraços",
+    "equipamento": "Halteres",
+    "execucao": [
+        "Segure os halteres com as palmas voltadas uma para a outra (pegada neutra).",
+        "Flexione os cotovelos, levantando os halteres até a altura dos ombros.",
+        "Retorne os halteres à posição inicial com controle."
+    ],
+    "dicas": [
+        "Mantenha os cotovelos fixos ao lado do corpo.",
+        "Não use impulso para levantar os halteres."
+    ]
+    },
+    {
+    "nome": "Rosca Concentrada (uma mão)",
+    "foco": "Bíceps (parte interna)",
+    "equipamento": "Halter",
+    "execucao": [
+        "Sente-se em um banco, segurando um halter com uma mão.",
+        "Apoie o cotovelo na parte interna da coxa e levante o halter em direção ao ombro, contraindo o bíceps.",
+        "Retorne lentamente o halter à posição inicial."
+    ],
+    "dicas": [
+        "Use um peso moderado para manter o movimento controlado.",
+        "Evite usar o tronco para ajudar a levantar o halter."
+    ]
+    }
+],
+"quarta": [
+    {
+    "nome": "Agachamento Livre com Barra",
+    "foco": "Quadríceps, glúteos e posteriores de coxa",
+    "equipamento": "Barra",
+    "execucao": [
+        "Posicione a barra na parte superior das costas, com os pés na largura dos ombros.",
+        "Flexione os joelhos, abaixando o quadril até que as coxas fiquem paralelas ao chão ou um pouco abaixo.",
+        "Empurre os calcanhares para voltar à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha as costas retas durante o movimento.",
+        "Não deixe os joelhos ultrapassarem a linha dos pés."
+    ]
+    },
+    {
+    "nome": "Leg Press Inclinado",
+    "foco": "Quadríceps, glúteos e posteriores de coxa",
+    "equipamento": "Máquina Leg Press",
+    "execucao": [
+        "Sente-se na máquina com os pés apoiados na plataforma, na largura dos ombros.",
+        "Abaixe a plataforma até que os joelhos fiquem em um ângulo de 90 graus.",
+        "Empurre a plataforma para cima, estendendo as pernas, sem travar os joelhos."
+    ],
+    "dicas": [
+        "Mantenha os pés firmes na plataforma, sem deixar os calcanhares saírem.",
+        "Evite estender completamente os joelhos para não sobrecarregar as articulações."
+    ]
+    },
+    {
+    "nome": "Extensora (máquina)",
+    "foco": "Quadríceps",
+    "equipamento": "Máquina extensora",
+    "execucao": [
+        "Sente-se na máquina com os joelhos alinhados ao eixo da máquina e as almofadas posicionadas sobre os tornozelos.",
+        "Estenda as pernas até que fiquem completamente esticadas, contraindo os quadríceps.",
+        "Retorne lentamente à posição inicial, controlando o movimento."
+    ],
+    "dicas": [
+        "Evite esticar completamente as pernas para não forçar os joelhos.",
+        "Mantenha o movimento controlado durante a descida."
+    ]
+    },
+    {
+    "nome": "Cadeira Flexora (máquina)",
+    "foco": "Posteriores de coxa",
+    "equipamento": "Máquina flexora",
+    "execucao": [
+        "Sente-se na máquina com as almofadas ajustadas sobre os tornozelos.",
+        "Flexione os joelhos, levando as almofadas em direção ao glúteo, contraindo os posteriores de coxa.",
+        "Retorne lentamente à posição inicial, controlando o movimento."
+    ],
+    "dicas": [
+        "Evite usar impulso para realizar o movimento.",
+        "Mantenha o tronco firme durante a execução."
+    ]
+    },
+    {
+    "nome": "Elevação Pélvica (Hip Thrust)",
+    "foco": "Glúteos e posteriores de coxa",
+    "equipamento": "Banco e barra",
+    "execucao": [
+        "Sente-se no chão com as costas apoiadas no banco e a barra posicionada sobre o quadril.",
+        "Com os pés firmemente plantados no chão e os joelhos flexionados, empurre o quadril para cima, contraindo os glúteos.",
+        "Desça o quadril até que os joelhos fiquem novamente a 90 graus e repita."
+    ],
+    "dicas": [
+        "Mantenha o movimento controlado, evitando balanços.",
+        "Concentre-se em contrair os glúteos ao subir."
+    ]
+    },
+    {
+    "nome": "Passada com Halteres (Walking Lunge)",
+    "foco": "Quadríceps, glúteos e posteriores de coxa",
+    "equipamento": "Halteres",
+    "execucao": [
+        "Segure um halter em cada mão e dê um passo à frente com uma perna.",
+        "Flexione os joelhos, descendo até que a perna da frente forme um ângulo de 90 graus.",
+        "Empurre a perna da frente para voltar à posição inicial e repita com a outra perna."
+    ],
+    "dicas": [
+        "Mantenha o tronco ereto durante todo o movimento.",
+        "Evite que o joelho da perna da frente ultrapasse os dedos do pé."
+    ]
+    },
+    {
+    "nome": "Cabo Glúteo (Kickback)",
+    "foco": "Glúteos",
+    "equipamento": "Estação de cabo",
+    "execucao": [
+        "Coloque a alça no tornozelo e ajuste a máquina de cabo.",
+        "Fique em pé e dê um pequeno passo para trás, com a perna ligeiramente flexionada.",
+        "Empurre a perna para trás, contraindo o glúteo ao máximo.",
+        "Retorne lentamente à posição inicial e repita com a outra perna."
+    ],
+    "dicas": [
+        "Evite arquear a coluna durante o movimento.",
+        "Mantenha o core contraído para estabilidade."
+    ]
+    },
+    {
+    "nome": "Abdução na Máquina",
+    "foco": "Glúteos (principalmente a parte lateral)",
+    "equipamento": "Máquina de abdução",
+    "execucao": [
+        "Sente-se na máquina com as pernas posicionadas nas almofadas.",
+        "Abra as pernas o máximo possível, contraindo os glúteos.",
+        "Retorne lentamente à posição inicial, controlando o movimento."
+    ],
+    "dicas": [
+        "Mantenha o movimento suave, sem pressa.",
+        "Evite usar pesos excessivos que comprometam a execução correta."
+    ]
+    }
+],
+"quinta" : [
+    {
+    "nome": "Elevação Lateral com Halteres",
+    "foco": "Deltoides laterais",
+    "equipamento": "Halteres",
+    "execucao": [
+        "Fique em pé com um halter em cada mão, braços ao lado do corpo.",
+        "Levante os halteres lateralmente até que os braços fiquem paralelos ao chão.",
+        "Retorne lentamente à posição inicial, controlando o movimento."
+    ],
+    "dicas": [
+        "Evite balançar o corpo para ajudar na elevação.",
+        "Mantenha os cotovelos ligeiramente flexionados."
+    ]
+    },
+    {
+    "nome": "Desenvolvimento Militar com Barra ou Halteres",
+    "foco": "Deltoides (principalmente a parte anterior) e tríceps",
+    "equipamento": "Barra ou halteres",
+    "execucao": [
+        "Sente-se ou fique em pé com os pés na largura dos ombros, segurando a barra ou halteres à altura dos ombros.",
+        "Empurre o peso para cima, estendendo completamente os braços.",
+        "Abaixe lentamente o peso até a altura dos ombros."
+    ],
+    "dicas": [
+        "Mantenha o tronco firme e evite arquear as costas.",
+        "Evite que os cotovelos ultrapassem a linha dos ombros ao descer."
+    ]
+    },
+    {
+    "nome": "Elevação Frontal (Alternada ou com Barra)",
+    "foco": "Deltoides anteriores",
+    "equipamento": "Halteres ou barra",
+    "execucao": [
+        "Fique em pé segurando um halter em cada mão, com os braços estendidos à frente.",
+        "Levante um dos halteres para frente até que o braço fique paralelo ao chão.",
+        "Retorne o haltere à posição inicial e repita com o outro braço."
+    ],
+    "dicas": [
+        "Evite usar pesos muito pesados que possam comprometer a forma.",
+        "Mantenha os ombros relaxados durante o movimento."
+    ]
+    },
+    {
+    "nome": "Crucifixo Invertido (Máquina ou Halteres)",
+    "foco": "Deltoides posteriores e trapézio",
+    "equipamento": "Máquina ou halteres",
+    "execucao": [
+        "Sente-se na máquina ou deite-se de bruços em um banco inclinado, segurando os halteres.",
+        "Abra os braços lateralmente com os cotovelos ligeiramente flexionados.",
+        "Concentre-se em contrair os deltoides posteriores e o trapézio ao máximo."
+    ],
+    "dicas": [
+        "Mantenha o movimento controlado, evitando balanços.",
+        "Não levante os ombros durante o movimento."
+    ]
+    },
+    {
+    "nome": "Encolhimento com Barra ou Halteres",
+    "foco": "Trapézio (principalmente a parte superior)",
+    "equipamento": "Barra ou halteres",
+    "execucao": [
+        "Fique em pé, segurando a barra ou halteres à frente das coxas.",
+        "Eleve os ombros em direção às orelhas, contraindo o trapézio.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha os braços retos durante o movimento.",
+        "Evite usar impulso para levantar os pesos."
+    ]
+    },
+    {
+    "nome": "Remada Alta com Barra EZ ou Halteres",
+    "foco": "Deltoides laterais e trapézio",
+    "equipamento": "Barra EZ ou halteres",
+    "execucao": [
+        "Fique em pé, segurando a barra EZ ou halteres com uma pegada pronada (palmas para baixo).",
+        "Puxe o peso para cima, mantendo os cotovelos elevados e para fora.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Evite balançar o corpo para ajudar no movimento.",
+        "Mantenha os cotovelos mais altos que as mãos durante a elevação."
+    ]
+    },
+    {
+    "nome": "Trapézio na Smith Machine (Encolhimento)",
+    "foco": "Trapézio (principalmente a parte superior)",
+    "equipamento": "Smith Machine",
+    "execucao": [
+        "Posicione-se de frente para a barra da Smith Machine, com os pés na largura dos ombros.",
+        "Segure a barra com uma pegada mais aberta que a largura dos ombros.",
+        "Eleve os ombros em direção às orelhas, contraindo o trapézio.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha os cotovelos esticados durante o movimento.",
+        "Evite usar impulso ou movimentos bruscos."
+    ]
+    },
+    {
+    "nome": "Encolhimento com Halteres (Pegada Inversa)",
+    "foco": "Trapézio (principalmente a parte superior)",
+    "equipamento": "Halteres",
+    "execucao": [
+        "Fique em pé, segurando um halter em cada mão, com as palmas das mãos voltadas para trás (pegada inversa).",
+        "Eleve os ombros em direção às orelhas, contraindo o trapézio.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Evite usar pesos muito pesados para garantir boa execução.",
+        "Mantenha a postura ereta durante o movimento, sem balançar o corpo."
+    ]
+    }
+],
+"sexta": [
+    {
+    "nome": "Prancha Isométrica (Estática)",
+    "foco": "Abdômen (principalmente transverso e reto abdominal), core",
+    "equipamento": "Nenhum (pode usar um colchonete para conforto)",
+    "execucao": [
+        "Deite-se de barriga para baixo e apoie os cotovelos no chão, alinhando os ombros diretamente acima deles.",
+        "Levante o corpo, mantendo uma linha reta da cabeça até os calcanhares.",
+        "Contraia o abdômen, glúteos e pernas para manter a posição.",
+        "Mantenha a posição por 30 segundos ou mais, dependendo do seu nível de condicionamento."
+    ],
+    "dicas": [
+        "Evite deixar os quadris subirem ou descerem durante a execução.",
+        "Mantenha a cabeça alinhada com a coluna vertebral."
+    ]
+    },
+    {
+    "nome": "Abdominal Infra (Elevação de Pernas)",
+    "foco": "Abdômen inferior",
+    "equipamento": "Colchonete ou banco (opcional)",
+    "execucao": [
+        "Deite-se de costas no colchonete com as pernas esticadas.",
+        "Levante as pernas até formar um ângulo de 90 graus com o corpo, contraindo o abdômen.",
+        "Abaixe as pernas lentamente, sem tocar o chão, até quase estarem completamente esticadas.",
+        "Repita o movimento."
+    ],
+    "dicas": [
+        "Mantenha a lombar pressionada contra o chão durante o movimento.",
+        "Não deixe as pernas caírem rapidamente."
+    ]
+    },
+    {
+    "nome": "Abdominal Oblíquo (Bicicleta ou Cabo)",
+    "foco": "Abdômen oblíquo",
+    "equipamento": "Nenhum (bicicleta no solo) ou cabo (para a versão com cabo)",
+    "execucao": [
+        "Deite-se de costas com as mãos atrás da cabeça e os cotovelos abertos.",
+        "Eleve os ombros e leve o cotovelo direito em direção ao joelho esquerdo, enquanto estica a perna direita.",
+        "Alterne os lados, levando o cotovelo esquerdo em direção ao joelho direito.",
+        "Repita o movimento alternadamente."
+    ],
+    "dicas": [
+        "Evite puxar o pescoço com as mãos durante a versão de bicicleta.",
+        "Mantenha o movimento controlado, focando na contração dos oblíquos."
+    ]
+    },
+    {
+    "nome": "Abdominal com Peso (Cabo ou Anilha)",
+    "foco": "Abdômen (principalmente o reto abdominal)",
+    "equipamento": "Cabo ou anilha",
+    "execucao": [
+        "Fique de joelhos, segurando a alça do cabo acima da cabeça.",
+        "Puxe o cabo para baixo enquanto flexiona o tronco, contraindo o abdômen.",
+        "Retorne lentamente à posição inicial."
+    ],
+    "dicas": [
+        "Mantenha os movimentos lentos e controlados para aumentar a eficácia do exercício.",
+        "Evite puxar com os braços, foque na contração do abdômen."
+    ]
+    },
+    {
+    "nome": "HIIT (Treinamento Intervalado de Alta Intensidade)",
+    "foco": "Queima de gordura, condicionamento cardiovascular",
+    "equipamento": "Nenhum (ou equipamentos como corda, kettlebell, etc., se desejar variar)",
+    "execucao": [
+        "Realize exercícios de alta intensidade (ex: burpees, saltos, corrida no lugar) por 20 a 30 segundos.",
+        "Descanse por 10 a 20 segundos e repita.",
+        "O ciclo pode ser de 4 a 20 minutos, dependendo do seu nível de condicionamento."
+    ],
+    "dicas": [
+        "Mantenha a intensidade alta durante os períodos de trabalho.",
+        "Se for iniciante, aumente os tempos de descanso e reduza o tempo de trabalho."
+    ]
+    }
+]
+}
