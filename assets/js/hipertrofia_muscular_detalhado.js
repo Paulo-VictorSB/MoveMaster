@@ -22,16 +22,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const exibirExercicios = (data) => {
         container.innerHTML = '';
 
-        // Itera pelos dias da semana no JSON
         Object.keys(data).forEach((dia) => {
             const treinoDia = document.createElement('div');
             treinoDia.classList.add('treino-dia');
 
             const titulo = document.createElement('h2');
-            titulo.innerHTML = dia.charAt(0).toUpperCase() + dia.slice(1); // Capitaliza o título
+            titulo.innerHTML = dia.charAt(0).toUpperCase() + dia.slice(1); 
             treinoDia.appendChild(titulo);
 
-            // Itera pelos exercícios de cada dia
             data[dia].forEach((item) => {
                 const treino = document.createElement('div');
                 treino.classList.add('treino');
