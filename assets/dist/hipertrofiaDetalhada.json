@@ -65,6 +65,7 @@
     "nome": "Tríceps na Corda (Cabo)",
     "foco": "Tríceps",
     "equipamento": "Corda na estação de cabo",
+    "url": "https://www.youtube.com/embed/gbnLZto6b0s?si=ID14lJlnoSS9AdgD",
     "execucao": [
         "Segure a corda com as duas mãos, mantendo os cotovelos próximos ao corpo.",
         "Estenda os braços para baixo, separando as extremidades da corda no final do movimento.",
@@ -79,6 +80,7 @@
     "nome": "Tríceps Francês com Halteres ou Barra EZ",
     "foco": "Tríceps",
     "equipamento": "Halteres ou barra EZ",
+    "url": "https://www.youtube.com/embed/_XIrAEnCqn8?si=wS-PqzkbVcUWlfYP",
     "execucao": [
         "Sente-se ou deite-se segurando o peso com as mãos em posição neutra.",
         "Abaixe o peso atrás da cabeça, dobrando os cotovelos.",
@@ -93,6 +95,7 @@
     "nome": "Tríceps Testa (Banco)",
     "foco": "Tríceps",
     "equipamento": "Barra EZ ou halteres e banco plano",
+    "url": "https://www.youtube.com/embed/oqob5MHbzBc?si=RRl_yWCyGe2Na15n",
     "execucao": [
         "Deite-se no banco segurando a barra ou halteres acima da cabeça.",
         "Abaixe o peso em direção à testa, dobrando apenas os cotovelos.",
@@ -107,6 +110,7 @@
     "nome": "Tríceps Concentrado (Uma Mão)",
     "foco": "Cabeça longa do tríceps",
     "equipamento": "Halter",
+    "url": "https://www.youtube.com/embed/VYKCqSeF1n8?si=oSjnCqZM8zcJhIKA",
     "execucao": [
         "Sente-se em um banco, segurando um halter com uma mão.",
         "Apoie o cotovelo na parte interna da coxa.",
@@ -124,6 +128,7 @@
     "nome": "Barra Fixa (com peso corporal ou assistida)",
     "foco": "Costas (lats) e bíceps",
     "equipamento": "Barra fixa",
+    "url": "https://www.youtube.com/embed/CKvMi8Shz9g?si=5AIMPLRsa9UzDpee",
     "execucao": [
         "Segure a barra com as palmas das mãos voltadas para frente (pegada pronada) ou para trás (pegada supinada).",
         "Puxe o corpo para cima até que o queixo ultrapasse a barra, contraindo as costas e os bíceps.",
@@ -138,6 +143,7 @@
     "nome": "Remada Curvada com Barra ou Halteres",
     "foco": "Costas (lats, trapézio e romboides) e bíceps",
     "equipamento": "Barra ou halteres",
+    "url": "https://www.youtube.com/embed/U0YF_ADlmPg?si=LOi1MCWu9aJDbFxV",
     "execucao": [
         "Com os joelhos ligeiramente flexionados, incline-se para frente mantendo a coluna reta.",
         "Segure a barra ou os halteres com as palmas das mãos voltadas para baixo.",
@@ -153,6 +159,7 @@
     "nome": "Puxada no Pulley (pegada aberta)",
     "foco": "Costas (lats) e bíceps",
     "equipamento": "Estação de pulley",
+    "url": "https://www.youtube.com/embed/Xn-fIQw08q4?si=XTDIOEeUadJ0ok_h" ,
     "execucao": [
         "Ajuste as polias do pulley na altura superior e segure a barra com as mãos em uma pegada aberta.",
         "Puxe a barra para baixo até que ela fique próxima ao peito, mantendo os cotovelos afastados do corpo.",
@@ -167,6 +174,7 @@
     "nome": "Serrote (Remada Unilateral com Halter)",
     "foco": "Costas (lats e romboides) e bíceps",
     "equipamento": "Halter e banco plano",
+    "url": "https://www.youtube.com/embed/JE3XUqMyHXo?si=Kv23fz5xim1QhvmO",
     "execucao": [
         "Apoie uma mão e o joelho de um lado do banco, com a outra mão segurando o halter.",
         "Puxe o halter em direção ao quadril, mantendo o cotovelo próximo ao corpo.",
@@ -181,6 +189,7 @@
     "nome": "Rosca Direta com Barra ou Halteres",
     "foco": "Bíceps",
     "equipamento": "Barra ou halteres",
+    "url": "https://www.youtube.com/embed/s4B8UW3BMqk?si=RZxJnjZ2aEttrrvn",
     "execucao": [
         "Fique em pé, segurando a barra ou os halteres com as palmas voltadas para frente.",
         "Flexione os cotovelos, levantando o peso até a altura dos ombros, contraindo os bíceps.",
@@ -195,6 +204,7 @@
     "nome": "Rosca Alternada (sentado ou em pé)",
     "foco": "Bíceps",
     "equipamento": "Halteres",
+    "url": "https://www.youtube.com/embed/mUEDnCGrNP4?si=JX8Tc4mSGr3PaZPW",
     "execucao": [
         "Segure um halter em cada mão, com os braços estendidos ao lado do corpo.",
         "Flexione um cotovelo, levantando o halter em direção ao ombro, enquanto mantém o outro braço estendido.",
@@ -209,6 +219,7 @@
     "nome": "Rosca Martelo (pegada neutra)",
     "foco": "Bíceps (braquial) e antebraços",
     "equipamento": "Halteres",
+    "url": "https://www.youtube.com/embed/5vPGH1uTtbs?si=z10RTPL2ipFuvScJ",
     "execucao": [
         "Segure os halteres com as palmas voltadas uma para a outra (pegada neutra).",
         "Flexione os cotovelos, levantando os halteres até a altura dos ombros.",
@@ -223,6 +234,7 @@
     "nome": "Rosca Concentrada (uma mão)",
     "foco": "Bíceps (parte interna)",
     "equipamento": "Halter",
+    "url": "https://www.youtube.com/embed/PcwdHVhWY3s?si=jsFleuGOnwFm6vR0",
     "execucao": [
         "Sente-se em um banco, segurando um halter com uma mão.",
         "Apoie o cotovelo na parte interna da coxa e levante o halter em direção ao ombro, contraindo o bíceps.",
