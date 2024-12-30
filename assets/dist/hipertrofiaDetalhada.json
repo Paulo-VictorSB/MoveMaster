@@ -251,6 +251,7 @@
     "nome": "Agachamento Livre com Barra",
     "foco": "Quadríceps, glúteos e posteriores de coxa",
     "equipamento": "Barra",
+    "url": "https://www.youtube.com/embed/GXlJYdZImU4?si=jNfyp4RjpI5kavPD",
     "execucao": [
         "Posicione a barra na parte superior das costas, com os pés na largura dos ombros.",
         "Flexione os joelhos, abaixando o quadril até que as coxas fiquem paralelas ao chão ou um pouco abaixo.",
@@ -265,6 +266,7 @@
     "nome": "Leg Press Inclinado",
     "foco": "Quadríceps, glúteos e posteriores de coxa",
     "equipamento": "Máquina Leg Press",
+    "url": "https://www.youtube.com/embed/9ruGCg0m9Tw?si=ucTzsGtL1NvoZqyK",
     "execucao": [
         "Sente-se na máquina com os pés apoiados na plataforma, na largura dos ombros.",
         "Abaixe a plataforma até que os joelhos fiquem em um ângulo de 90 graus.",
@@ -279,6 +281,7 @@
     "nome": "Extensora (máquina)",
     "foco": "Quadríceps",
     "equipamento": "Máquina extensora",
+    "url": "https://www.youtube.com/embed/0eDHe81BIas?si=pwDq18VITTohabG8",
     "execucao": [
         "Sente-se na máquina com os joelhos alinhados ao eixo da máquina e as almofadas posicionadas sobre os tornozelos.",
         "Estenda as pernas até que fiquem completamente esticadas, contraindo os quadríceps.",
@@ -293,6 +296,7 @@
     "nome": "Cadeira Flexora (máquina)",
     "foco": "Posteriores de coxa",
     "equipamento": "Máquina flexora",
+    "url": "https://www.youtube.com/embed/LuoeM8mY6UU?si=GvOaSU1NrSMidVro",
     "execucao": [
         "Sente-se na máquina com as almofadas ajustadas sobre os tornozelos.",
         "Flexione os joelhos, levando as almofadas em direção ao glúteo, contraindo os posteriores de coxa.",
@@ -307,6 +311,7 @@
     "nome": "Elevação Pélvica (Hip Thrust)",
     "foco": "Glúteos e posteriores de coxa",
     "equipamento": "Banco e barra",
+    "url": "https://www.youtube.com/embed/p3Nf4e3ym7w?si=1srybfa-46-STkPL",
     "execucao": [
         "Sente-se no chão com as costas apoiadas no banco e a barra posicionada sobre o quadril.",
         "Com os pés firmemente plantados no chão e os joelhos flexionados, empurre o quadril para cima, contraindo os glúteos.",
@@ -321,6 +326,7 @@
     "nome": "Passada com Halteres (Walking Lunge)",
     "foco": "Quadríceps, glúteos e posteriores de coxa",
     "equipamento": "Halteres",
+    "url": "https://www.youtube.com/embed/6Zz_RG0EHFE?si=BKMtJ3hyEs56XtpO",
     "execucao": [
         "Segure um halter em cada mão e dê um passo à frente com uma perna.",
         "Flexione os joelhos, descendo até que a perna da frente forme um ângulo de 90 graus.",
@@ -335,6 +341,7 @@
     "nome": "Cabo Glúteo (Kickback)",
     "foco": "Glúteos",
     "equipamento": "Estação de cabo",
+    "url": "https://www.youtube.com/embed/abUpYx2Y6nA?si=OpZ5TyXJN13QPDvS",
     "execucao": [
         "Coloque a alça no tornozelo e ajuste a máquina de cabo.",
         "Fique em pé e dê um pequeno passo para trás, com a perna ligeiramente flexionada.",
@@ -350,6 +357,7 @@
     "nome": "Abdução na Máquina",
     "foco": "Glúteos (principalmente a parte lateral)",
     "equipamento": "Máquina de abdução",
+    "url": "https://www.youtube.com/embed/Zk-dZLK7JJs?si=9bRMPCKnP-DAwthu",
     "execucao": [
         "Sente-se na máquina com as pernas posicionadas nas almofadas.",
         "Abra as pernas o máximo possível, contraindo os glúteos.",
@@ -366,6 +374,7 @@
     "nome": "Elevação Lateral com Halteres",
     "foco": "Deltoides laterais",
     "equipamento": "Halteres",
+    "url": "https://www.youtube.com/embed/qDAoUOmdbi4?si=YxRHIGA3SpJ6c_UK",
     "execucao": [
         "Fique em pé com um halter em cada mão, braços ao lado do corpo.",
         "Levante os halteres lateralmente até que os braços fiquem paralelos ao chão.",
@@ -380,6 +389,7 @@
     "nome": "Desenvolvimento Militar com Barra ou Halteres",
     "foco": "Deltoides (principalmente a parte anterior) e tríceps",
     "equipamento": "Barra ou halteres",
+    "url": "https://www.youtube.com/embed/L-iQfHVeuVg?si=7iE596wlJG1A9BeM",
     "execucao": [
         "Sente-se ou fique em pé com os pés na largura dos ombros, segurando a barra ou halteres à altura dos ombros.",
         "Empurre o peso para cima, estendendo completamente os braços.",
@@ -391,9 +401,10 @@
     ]
     },
     {
-    "nome": "Elevação Frontal (Alternada ou com Barra)",
+    "nome": "Elevação Frontal (Alternada ou com halter)",
     "foco": "Deltoides anteriores",
     "equipamento": "Halteres ou barra",
+    "url": "https://www.youtube.com/embed/jhxLYSm_P-k?si=cot4d15kf_n6l73B",
     "execucao": [
         "Fique em pé segurando um halter em cada mão, com os braços estendidos à frente.",
         "Levante um dos halteres para frente até que o braço fique paralelo ao chão.",
@@ -408,6 +419,7 @@
     "nome": "Crucifixo Invertido (Máquina ou Halteres)",
     "foco": "Deltoides posteriores e trapézio",
     "equipamento": "Máquina ou halteres",
+    "url": "https://www.youtube.com/embed/SNN6BftNts8?si=BwkbvCoRlVVS09nB",
     "execucao": [
         "Sente-se na máquina ou deite-se de bruços em um banco inclinado, segurando os halteres.",
         "Abra os braços lateralmente com os cotovelos ligeiramente flexionados.",
@@ -422,6 +434,7 @@
     "nome": "Encolhimento com Barra ou Halteres",
     "foco": "Trapézio (principalmente a parte superior)",
     "equipamento": "Barra ou halteres",
+    "url": "https://www.youtube.com/embed/BrwUPSLC_hE?si=w1PvAq_ylFqSQR_h",
     "execucao": [
         "Fique em pé, segurando a barra ou halteres à frente das coxas.",
         "Eleve os ombros em direção às orelhas, contraindo o trapézio.",
@@ -436,6 +449,7 @@
     "nome": "Remada Alta com Barra EZ ou Halteres",
     "foco": "Deltoides laterais e trapézio",
     "equipamento": "Barra EZ ou halteres",
+    "url": "https://www.youtube.com/embed/QZD6vq22qJg?si=rlCJ5NfQfH7EnCHU",
     "execucao": [
         "Fique em pé, segurando a barra EZ ou halteres com uma pegada pronada (palmas para baixo).",
         "Puxe o peso para cima, mantendo os cotovelos elevados e para fora.",
@@ -450,6 +464,7 @@
     "nome": "Trapézio na Smith Machine (Encolhimento)",
     "foco": "Trapézio (principalmente a parte superior)",
     "equipamento": "Smith Machine",
+    "url": "https://www.youtube.com/embed/jwp_Zf0-JSE?si=u_ov2YZhy8NG1SsQ",
     "execucao": [
         "Posicione-se de frente para a barra da Smith Machine, com os pés na largura dos ombros.",
         "Segure a barra com uma pegada mais aberta que a largura dos ombros.",
@@ -465,6 +480,7 @@
     "nome": "Encolhimento com Halteres (Pegada Inversa)",
     "foco": "Trapézio (principalmente a parte superior)",
     "equipamento": "Halteres",
+    "url": "https://www.youtube.com/embed/YeILDnoeYEk?si=aoCJ4PbyZLRs9HZm",
     "execucao": [
         "Fique em pé, segurando um halter em cada mão, com as palmas das mãos voltadas para trás (pegada inversa).",
         "Eleve os ombros em direção às orelhas, contraindo o trapézio.",
@@ -481,6 +497,7 @@
     "nome": "Prancha Isométrica (Estática)",
     "foco": "Abdômen (principalmente transverso e reto abdominal), core",
     "equipamento": "Nenhum (pode usar um colchonete para conforto)",
+    "url": "https://www.youtube.com/embed/3qTz7853Yiw?si=h2okDZFR5qfCnMMH",
     "execucao": [
         "Deite-se de barriga para baixo e apoie os cotovelos no chão, alinhando os ombros diretamente acima deles.",
         "Levante o corpo, mantendo uma linha reta da cabeça até os calcanhares.",
@@ -496,6 +513,7 @@
     "nome": "Abdominal Infra (Elevação de Pernas)",
     "foco": "Abdômen inferior",
     "equipamento": "Colchonete ou banco (opcional)",
+    "url": "https://www.youtube.com/embed/74gslROO7uA?si=G9j6Gs61pjyD31uG",
     "execucao": [
         "Deite-se de costas no colchonete com as pernas esticadas.",
         "Levante as pernas até formar um ângulo de 90 graus com o corpo, contraindo o abdômen.",
@@ -511,6 +529,7 @@
     "nome": "Abdominal Oblíquo (Bicicleta ou Cabo)",
     "foco": "Abdômen oblíquo",
     "equipamento": "Nenhum (bicicleta no solo) ou cabo (para a versão com cabo)",
+    "url": "https://www.youtube.com/embed/D0w-2g_-G-Q?si=BVuBfa_bwgVY4eZH",
     "execucao": [
         "Deite-se de costas com as mãos atrás da cabeça e os cotovelos abertos.",
         "Eleve os ombros e leve o cotovelo direito em direção ao joelho esquerdo, enquanto estica a perna direita.",
@@ -526,6 +545,7 @@
     "nome": "Abdominal com Peso (Cabo ou Anilha)",
     "foco": "Abdômen (principalmente o reto abdominal)",
     "equipamento": "Cabo ou anilha",
+    "url": "https://www.youtube.com/embed/mfkfUkj24co?si=SPHlkykxC0qW9N_J",
     "execucao": [
         "Fique de joelhos, segurando a alça do cabo acima da cabeça.",
         "Puxe o cabo para baixo enquanto flexiona o tronco, contraindo o abdômen.",
@@ -540,6 +560,7 @@
     "nome": "HIIT (Treinamento Intervalado de Alta Intensidade)",
     "foco": "Queima de gordura, condicionamento cardiovascular",
     "equipamento": "Nenhum (ou equipamentos como corda, kettlebell, etc., se desejar variar)",
+    "url": "https://www.youtube.com/embed/fNrohRvEuhk?si=L_QSocSzW57Jy09H",
     "execucao": [
         "Realize exercícios de alta intensidade (ex: burpees, saltos, corrida no lugar) por 20 a 30 segundos.",
         "Descanse por 10 a 20 segundos e repita.",
