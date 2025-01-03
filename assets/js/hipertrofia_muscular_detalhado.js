@@ -19,6 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    function extractVideoIdFromEmbed(url) {
+        const regex = /youtube\.com\/embed\/([^?]+)/;
+        const match = url.match(regex);
+        return match ? match[1] : null;
+    }
+
     const exibirExercicios = (data) => {
         container.innerHTML = '';
 
@@ -37,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const nome = document.createElement('p');
                 nome.innerHTML = `<span>Nome: </span>${item.nome}`;
+                nome.classList.add('nome');
                 treino.appendChild(nome);
 
                 const foco = document.createElement('p');
@@ -54,18 +61,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 execucao.innerHTML = `<span>Execução: </span>`;
                 ulExecucao.appendChild(execucao);
 
-                const video = document.createElement('iframe');
-                video.setAttribute('width', 560);
-                video.setAttribute('height', 315);
-                video.setAttribute('src', item.url);
-                video.setAttribute('title', 'YouTube video player');
-                video.setAttribute('frameborder', 0);
-                video.setAttribute(
-                    'allow',
-                    'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
-                );
-                video.setAttribute('allowfullscreen', '');
+                const video = document.createElement('div');
+                video.style.width = '560px';
+                video.style.height = '315px';
+                video.style.backgroundImage = `url('https://img.youtube.com/vi/${extractVideoIdFromEmbed(item.url)}/hqdefault.jpg')`;
+                video.style.backgroundSize = 'cover';
+                video.style.backgroundPosition = 'center';
+                video.style.backgroundRepeat = 'no-repeat';
+                video.style.cursor = 'pointer';
+                video.addEventListener('click', () => {
+                    const iframe = document.createElement('iframe');
+                    iframe.setAttribute('width', 560);
+                    iframe.setAttribute('height', 315);
+                    iframe.setAttribute('src', item.url);
+                    iframe.setAttribute('title', 'YouTube video player');
+                    iframe.setAttribute('frameborder', 0);
+                    iframe.setAttribute(
+                        'allow',
+                        'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
+                    );
+                    iframe.setAttribute('allowfullscreen', '');
+                    video.replaceWith(iframe);
+                });
                 ulExecucao.appendChild(video);
+                const mensagem = document.createElement('p')
+                mensagem.innerHTML = `<span>Nota: clique na imagem para ver um vídeo da execução detalhada.</span>`
+                ulExecucao.appendChild(mensagem)
 
                 item.execucao.forEach((passo) => {
                     const li = document.createElement('li');

@@ -419,3 +419,32 @@ span {
 .ancoras a {
     text-decoration: none;
 }
+
+.treino-dia {
+    margin-top: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column nowrap;
+    width: 80%;
+}
+
+.treino-dia h2 {
+    text-align: center;
+    background-image: linear-gradient(to right, #f4b400, #f4b30000);
+    border-radius: 5px;
+}
+
+.treino-dia ul {
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    align-items: center;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.nome {
+    text-align: center;
+    background-image: linear-gradient(to right, #f4b400, #f4b30000);
+    border-radius: 5px; 
+}

@@ -1,26 +1,3 @@
-1. Página Inicial (Home)
-Banner motivacional: Uma imagem ou vídeo chamativo com uma frase motivadora.
-Destaques do site: Treinos mais populares, programas especiais, ou depoimentos de usuários.
-
-2. Sobre Nós
-História e Missão: Conte a história por trás do site e seus objetivos.
-Equipe: Perfis breves de instrutores ou colaboradores (se aplicável).
-
-3. Treinos
-Divisão por objetivo:
-Perda de peso
-Ganho de massa muscular
-Resistência e condicionamento
-Categorias específicas:
-Treinos para iniciantes, intermediários e avançados.
-Treinos por duração: 15, 30, 60 minutos.
-Equipamento necessário: Treinos com ou sem equipamentos.
-Filtros personalizáveis: Permitir que o usuário selecione baseando-se em objetivos ou áreas do corpo.
-
-4. Planos de Treino
-Exemplos de rotinas semanais: Para diferentes objetivos.
-Sugestões de progressão: Como aumentar a intensidade ao longo do tempo.
-
 5. Nutrição
 Receitas saudáveis:
 Lanches pré e pós-treino.
